@@ -32,20 +32,10 @@ Bu proje, **C programlama dili** kullanılarak geliştirilen bir Acil Servis Yö
 
 1. **Proje Dosyasını İndirin**
    - GitHub üzerinden projeyi indirin veya kopyalayın.
-   - Örnek komut:
-     ```bash
-     git clone https://github.com/kullaniciadi/acil-servis-yonetim.git
-     ```
 
 2. **Derleyin ve Çalıştırın**
-   - Bir C derleyici (örneğin GCC) kullanarak programı derleyin:
-     ```bash
-     gcc acil_servis_yonetim.c -o acil_servis
-     ```
+   - Bir C derleyici (örneğin GCC) kullanarak programı derleyin: 
    - Derlenen dosyayı çalıştırın:
-     ```bash
-     ./acil_servis
-     ```
 
 3. **Menü Seçeneklerini Kullanın**
    - Program açıldığında aşağıdaki menüyü göreceksiniz:
